@@ -6,4 +6,4 @@ Do follow the steps
 1)Download the files
 2)Install the necessary packages
 3)run the file
-4)You can change the questions in que_ans file
+4)You can change the questions in que_ans file.
